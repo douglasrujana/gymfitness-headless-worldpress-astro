@@ -72,7 +72,7 @@ define('DB_COLLATE', '');
 if (!defined('WP_HOME')) {
     // Detect if we're on Railway (production) or local
     $is_production = !empty(getenv('WORDPRESS_DB_HOST')) && strpos(getenv('WORDPRESS_DB_HOST'), 'railway') !== false;
-    
+
     if ($is_production) {
         // Railway production - use HTTPS
         define('WP_HOME', 'https://' . $_SERVER['HTTP_HOST']);

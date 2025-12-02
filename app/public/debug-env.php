@@ -36,7 +36,7 @@ try {
     echo "Attempting connection to: $host\n";
     echo "Database: $db\n";
     echo "User: $user\n\n";
-    
+
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
     echo "✓ Database connection successful!\n";
 } catch (Exception $e) {
@@ -50,7 +50,7 @@ if (file_exists($wp_config)) {
     ob_start();
     include($wp_config);
     ob_end_clean();
-    
+
     if (defined('DB_NAME')) {
         echo "Constants defined:\n";
         echo "DB_NAME: " . DB_NAME . "\n";
