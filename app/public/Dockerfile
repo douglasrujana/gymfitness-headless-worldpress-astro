@@ -14,12 +14,16 @@ RUN a2enmod rewrite \
     && a2enmod ssl \
     && a2enmod headers
 
+# Copiar wp-config.php - lee variables de entorno de Railway
+COPY wp-config.php /var/www/html/wp-config.php
+
 # Copiar wp-content personalizado
 COPY wp-content/ /var/www/html/wp-content/
 
 # Establecer permisos correctos
 RUN chown -R www-data:www-data /var/www/html \
-    && chmod -R 755 /var/www/html
+    && chmod -R 755 /var/www/html \
+    && chmod 644 /var/www/html/wp-config.php
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
