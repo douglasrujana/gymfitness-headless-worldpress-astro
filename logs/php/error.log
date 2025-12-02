@@ -1,0 +1,580 @@
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: curl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: gettext: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: exif: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: ftp: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: FFI: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: imap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: bz2: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: sodium: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: tidy: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: soap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: sqlite3: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:34 UTC] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:35 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: curl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gettext: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: exif: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: ftp: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: FFI: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: imap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: bz2: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: sodium: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: tidy: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: soap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: sqlite3: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: curl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gettext: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: exif: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: ftp: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: FFI: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: imap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: bz2: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: sodium: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: tidy: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: soap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: sqlite3: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: curl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gettext: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: exif: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: ftp: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: FFI: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: imap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: bz2: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: sodium: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: tidy: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: soap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: sqlite3: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: curl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gettext: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: exif: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: ftp: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: FFI: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:36 UTC] PHP Warning:  PHP Startup: imap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: bz2: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: sodium: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: tidy: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: xsl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: soap: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: mysqli: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: fileinfo: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: sqlite3: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:37 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:39 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:39 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:39 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:39 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 05:11:39 UTC] PHP Warning:  PHP Startup: intl: Unable to initialize module
+Module compiled with module API=20220829
+PHP    compiled with module API=20230831
+These options need to match
+ in Unknown on line 0
+[12-Nov-2025 16:50:32 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\index.php on line 5
+[12-Nov-2025 16:50:58 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\index.php on line 5
+[12-Nov-2025 17:23:25 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\index.php on line 10
+[12-Nov-2025 18:13:26 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\index.php on line 25
+[12-Nov-2025 18:25:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "nav" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\index.php:20
+Stack trace:
+#0 C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\gymfitness\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\gymfitness\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\index.php on line 20
+[15-Nov-2025 17:49:43 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\functions.php on line 11
+[15-Nov-2025 17:49:44 UTC] PHP Warning:  Trying to access array offset on false in C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[15-Nov-2025 17:49:44 UTC] PHP Stack trace:
+[15-Nov-2025 17:49:44 UTC] PHP   1. WP_Fatal_Error_Handler->handle() C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-fatal-error-handler.php:0
+[15-Nov-2025 17:49:44 UTC] PHP   2. WP_Recovery_Mode->handle_error($error = ['type' => 4, 'message' => 'syntax error, unexpected token "}"', 'file' => 'C:\\Users\\User\\Local Sites\\gymfitness\\app\\public\\wp-content\\themes\\gymfitness\\functions.php', 'line' => 11]) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-fatal-error-handler.php:55
+[15-Nov-2025 17:49:44 UTC] PHP   3. WP_Recovery_Mode_Email_Service->maybe_send_recovery_mode_email($rate_limit = 86400, $error = ['type' => 4, 'message' => 'syntax error, unexpected token "}"', 'file' => 'C:\\Users\\User\\Local Sites\\gymfitness\\app\\public\\wp-content\\themes\\gymfitness\\functions.php', 'line' => 11], $extension = ['type' => 'theme', 'slug' => 'gymfitness']) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode.php:185
+[15-Nov-2025 17:49:44 UTC] PHP   4. WP_Recovery_Mode_Email_Service->send_recovery_mode_email($rate_limit = 86400, $error = ['type' => 4, 'message' => 'syntax error, unexpected token "}"', 'file' => 'C:\\Users\\User\\Local Sites\\gymfitness\\app\\public\\wp-content\\themes\\gymfitness\\functions.php', 'line' => 11], $extension = ['type' => 'theme', 'slug' => 'gymfitness']) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode-email-service.php:62
+[15-Nov-2025 17:49:44 UTC] PHP   5. WP_Recovery_Mode_Email_Service->get_debug($extension = ['type' => 'theme', 'slug' => 'gymfitness']) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode-email-service.php:150
+[15-Nov-2025 17:49:44 UTC] PHP Warning:  Trying to access array offset on false in C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[15-Nov-2025 17:49:44 UTC] PHP Stack trace:
+[15-Nov-2025 17:49:44 UTC] PHP   1. WP_Fatal_Error_Handler->handle() C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-fatal-error-handler.php:0
+[15-Nov-2025 17:49:44 UTC] PHP   2. WP_Recovery_Mode->handle_error($error = ['type' => 4, 'message' => 'syntax error, unexpected token "}"', 'file' => 'C:\\Users\\User\\Local Sites\\gymfitness\\app\\public\\wp-content\\themes\\gymfitness\\functions.php', 'line' => 11]) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-fatal-error-handler.php:55
+[15-Nov-2025 17:49:44 UTC] PHP   3. WP_Recovery_Mode_Email_Service->maybe_send_recovery_mode_email($rate_limit = 86400, $error = ['type' => 4, 'message' => 'syntax error, unexpected token "}"', 'file' => 'C:\\Users\\User\\Local Sites\\gymfitness\\app\\public\\wp-content\\themes\\gymfitness\\functions.php', 'line' => 11], $extension = ['type' => 'theme', 'slug' => 'gymfitness']) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode.php:185
+[15-Nov-2025 17:49:44 UTC] PHP   4. WP_Recovery_Mode_Email_Service->send_recovery_mode_email($rate_limit = 86400, $error = ['type' => 4, 'message' => 'syntax error, unexpected token "}"', 'file' => 'C:\\Users\\User\\Local Sites\\gymfitness\\app\\public\\wp-content\\themes\\gymfitness\\functions.php', 'line' => 11], $extension = ['type' => 'theme', 'slug' => 'gymfitness']) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode-email-service.php:62
+[15-Nov-2025 17:49:44 UTC] PHP   5. WP_Recovery_Mode_Email_Service->get_debug($extension = ['type' => 'theme', 'slug' => 'gymfitness']) C:\Users\User\Local Sites\gymfitness\app\public\wp-includes\class-wp-recovery-mode-email-service.php:150
+[15-Nov-2025 17:51:44 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\functions.php on line 11
+[15-Nov-2025 17:53:45 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\functions.php on line 11
+[15-Nov-2025 17:54:34 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\functions.php on line 11
+[15-Nov-2025 17:54:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\gymfitness\app\public\wp-content\themes\gymfitness\functions.php on line 11
