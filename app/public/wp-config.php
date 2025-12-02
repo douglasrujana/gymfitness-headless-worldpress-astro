@@ -73,7 +73,7 @@ if (!defined('WP_HOME')) {
     // Detect environment by checking for Railway-specific variables
     $db_host = getenv('WORDPRESS_DB_HOST');
     $is_production = !empty($db_host) && ($db_host !== 'localhost' && $db_host !== '127.0.0.1');
-    
+
     if ($is_production) {
         // Railway production - use HTTPS and current domain
         define('WP_HOME', 'https://' . ($_SERVER['HTTP_HOST'] ?? 'localhost'));
@@ -83,7 +83,8 @@ if (!defined('WP_HOME')) {
         define('WP_HOME', 'http://gymfitness.local');
         define('WP_SITEURL', 'http://gymfitness.local');
     }
-}/**#@+
+}
+/**#@+
  * Authentication unique keys and salts.
  *
  * Change these to different unique phrases! You can generate these using
