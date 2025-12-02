@@ -65,6 +65,25 @@ define('DB_CHARSET', 'utf8');
 /** The database collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+/**
+ * WordPress URL Configuration
+ * Force WordPress to use the correct domain
+ */
+if (!defined('WP_HOME')) {
+    // Detect if we're on Railway (production) or local
+    $is_production = !empty(getenv('WORDPRESS_DB_HOST')) && strpos(getenv('WORDPRESS_DB_HOST'), 'railway') !== false;
+    
+    if ($is_production) {
+        // Railway production - use HTTPS
+        define('WP_HOME', 'https://' . $_SERVER['HTTP_HOST']);
+        define('WP_SITEURL', 'https://' . $_SERVER['HTTP_HOST']);
+    } else {
+        // Local development
+        define('WP_HOME', 'http://gymfitness.local');
+        define('WP_SITEURL', 'http://gymfitness.local');
+    }
+}
+
 /**#@+
  * Authentication unique keys and salts.
  *
