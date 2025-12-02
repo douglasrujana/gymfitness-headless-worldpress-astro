@@ -14,6 +14,9 @@ RUN a2enmod rewrite \
     && a2enmod ssl \
     && a2enmod headers
 
+# Configurar PHP para pasar variables de entorno
+RUN echo "variables_order = \"EGPCS\"" >> /usr/local/etc/php/conf.d/variables.ini
+
 # Copiar wp-config.php - lee variables de entorno de Railway
 COPY wp-config.php /var/www/html/wp-config.php
 

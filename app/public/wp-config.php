@@ -31,12 +31,33 @@ if (file_exists($env_file)) {
     $env_vars = parse_ini_file($env_file);
 }
 
-// Database settings - priority: .env file > environment variables > defaults
-// In Railway, .env won't exist, so it will use environment variables
-define('DB_NAME', !empty($env_vars['DB_NAME']) ? $env_vars['DB_NAME'] : (getenv('WORDPRESS_DB_NAME') ?: 'wordpress'));
-define('DB_USER', !empty($env_vars['DB_USER']) ? $env_vars['DB_USER'] : (getenv('WORDPRESS_DB_USER') ?: 'wordpress'));
-define('DB_PASSWORD', !empty($env_vars['DB_PASSWORD']) ? $env_vars['DB_PASSWORD'] : (getenv('WORDPRESS_DB_PASSWORD') ?: ''));
-define('DB_HOST', !empty($env_vars['DB_HOST']) ? $env_vars['DB_HOST'] : (getenv('WORDPRESS_DB_HOST') ?: 'localhost'));
+// Helper function to get environment variables from multiple sources
+function get_env_var($key, $default = null)
+{
+    global $env_vars;
+
+    // Priority: .env file > $_ENV > getenv() > default
+    if (!empty($env_vars[$key])) {
+        return $env_vars[$key];
+    }
+
+    if (isset($_ENV[$key]) && !empty($_ENV[$key])) {
+        return $_ENV[$key];
+    }
+
+    $env_val = getenv($key);
+    if ($env_val !== false && !empty($env_val)) {
+        return $env_val;
+    }
+
+    return $default;
+}
+
+// Database settings - reads from Railway environment variables
+define('DB_NAME', get_env_var('WORDPRESS_DB_NAME', 'wordpress'));
+define('DB_USER', get_env_var('WORDPRESS_DB_USER', 'wordpress'));
+define('DB_PASSWORD', get_env_var('WORDPRESS_DB_PASSWORD', ''));
+define('DB_HOST', get_env_var('WORDPRESS_DB_HOST', 'localhost'));
 
 /** Database charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
