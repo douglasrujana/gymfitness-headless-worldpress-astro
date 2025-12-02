@@ -22,19 +22,21 @@
 
 // ** Database settings - You can get this info from your web host ** //
 
-// Load environment variables from .env file if it exists
+// Load environment variables from .env file if it exists (only for local development)
 $env_file = __DIR__ . '/.env';
 $env_vars = [];
 
 if (file_exists($env_file)) {
+    // Parse .env file only if it exists (local development)
     $env_vars = parse_ini_file($env_file);
 }
 
 // Database settings - priority: .env file > environment variables > defaults
-define('DB_NAME', $env_vars['DB_NAME'] ?? getenv('WORDPRESS_DB_NAME') ?? 'wordpress');
-define('DB_USER', $env_vars['DB_USER'] ?? getenv('WORDPRESS_DB_USER') ?? 'wordpress');
-define('DB_PASSWORD', $env_vars['DB_PASSWORD'] ?? getenv('WORDPRESS_DB_PASSWORD') ?? '');
-define('DB_HOST', $env_vars['DB_HOST'] ?? getenv('WORDPRESS_DB_HOST') ?? 'localhost');
+// In Railway, .env won't exist, so it will use environment variables
+define('DB_NAME', !empty($env_vars['DB_NAME']) ? $env_vars['DB_NAME'] : (getenv('WORDPRESS_DB_NAME') ?: 'wordpress'));
+define('DB_USER', !empty($env_vars['DB_USER']) ? $env_vars['DB_USER'] : (getenv('WORDPRESS_DB_USER') ?: 'wordpress'));
+define('DB_PASSWORD', !empty($env_vars['DB_PASSWORD']) ? $env_vars['DB_PASSWORD'] : (getenv('WORDPRESS_DB_PASSWORD') ?: ''));
+define('DB_HOST', !empty($env_vars['DB_HOST']) ? $env_vars['DB_HOST'] : (getenv('WORDPRESS_DB_HOST') ?: 'localhost'));
 
 /** Database charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

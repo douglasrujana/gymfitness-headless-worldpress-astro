@@ -20,6 +20,9 @@ COPY wp-config.php /var/www/html/wp-config.php
 # Copiar wp-content personalizado
 COPY wp-content/ /var/www/html/wp-content/
 
+# NO copiar .env - Solo debe existir en local para desarrollo
+# Las variables de entorno vendrán de Railway
+
 # Establecer permisos correctos
 RUN chown -R www-data:www-data /var/www/html \
     && chmod -R 755 /var/www/html \
